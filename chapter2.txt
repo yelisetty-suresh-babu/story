@@ -8,3 +8,7 @@ git log
 git commit -m
 git diff
 git checkout
+
+git branch -M main
+git remote add origin https://github.com/yelisetty-suresh-babu/story.git
+git push -u origin
